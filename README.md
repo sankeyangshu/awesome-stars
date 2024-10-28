@@ -68,6 +68,7 @@
 
 ## JavaScript 
 
+- [ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
@@ -98,7 +99,7 @@
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [gegeyang0124/react-native-lib-cus-com](https://github.com/gegeyang0124/react-native-lib-cus-com) - react-native 自定义辅助组件库，完美适配各种机型和屏幕大小； 完美的网路请求，带加载条，可上传、下载文件,支持视频播放，二维码条形码扫描， 图片选择、剪辑、查看大图，本地存储，数据库操作，页面导航，截屏和截UI图， 水印图片，打开office类文件;等等多种ui,可自定义删除;可节省应用级软件的开发时间
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [TaleLin/lin-cms-koa](https://github.com/TaleLin/lin-cms-koa) - 🌀使用Node.JS KOA构建的CMS开发框架
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [NervJS/nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
