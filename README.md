@@ -73,7 +73,6 @@
 
 ## JavaScript 
 
-- [wenps/auto-i18n-translation-plugins](https://github.com/wenps/auto-i18n-translation-plugins) - 网页自动翻译。支持（有道 / 谷歌 / 百度 / 自定义）翻译器。兼容 webpack/vite/rollup。适配 JS 框架。一键翻译。Web Auto-Translation. Supports  (Youdao/Google/Baidu/Custom) translators. Compatible with webpack/vite/rollup. Works with JS frame
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -240,6 +239,7 @@
 
 - [omgovich/colord](https://github.com/omgovich/colord) - 👑 A tiny yet powerful tool for high-performance color manipulations and conversions
 - [rolldown/tsdown](https://github.com/rolldown/tsdown) - The elegant bundler for libraries powered by Rolldown
+- [wenps/auto-i18n-translation-plugins](https://github.com/wenps/auto-i18n-translation-plugins) - 网页自动翻译。支持（有道 / 谷歌 / 百度 / 自定义）翻译器。兼容 webpack/vite/rollup。适配 JS 框架。一键翻译。Web Auto-Translation. Supports  (Youdao/Google/Baidu/Custom) translators. Compatible with webpack/vite/rollup. Works with JS frame
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
@@ -250,7 +250,7 @@
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
@@ -337,7 +337,7 @@
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [Whbbit1999/shadcn-vue-admin](https://github.com/Whbbit1999/shadcn-vue-admin) - Admin Dashboard UI crafted with Shadcn-vue, Vue3 and Vite. Built with responsiveness and accessibility in mind.
 - [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange_book: 根据 RSS 订阅最新前端技术文章并自动分类
-- [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 HuLa是一款基于Tauri v2+Vue3的桌面即时通讯应用程序（不仅仅是即时通讯），兼容Win、MacOS、Linux、Android、IOS
+- [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 HuLa是一款基于Tauri v2+Vue3的跨平台即时通讯桌面应用（不仅仅是即时通讯），兼容Windows、MacOS、Linux、Android、IOS
 - [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
