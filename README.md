@@ -72,6 +72,9 @@
 
 ## JavaScript 
 
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
@@ -191,6 +194,7 @@
 ## Python 
 
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -235,11 +239,12 @@
 
 ## Shell 
 
-- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
 ## TypeScript 
 
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+- [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 - [un-pany/mobvue](https://github.com/un-pany/mobvue) - 📱 A crafted Vue3 mobile template | Vue Mobile | Vue H5 | Vue Vant | Vue3 Mobile | Vue3 H5 | Vue3 Vant | Vue 移动端模板 | Vue3 移动端模板
 - [oedotme/generouted](https://github.com/oedotme/generouted) - Generated file-based routes for Vite
 - [jdf2e/nutui-react](https://github.com/jdf2e/nutui-react) - 京东风格的移动端 React 组件库 、支持多端小程序(A React UI Toolkit for Mobile Web)
