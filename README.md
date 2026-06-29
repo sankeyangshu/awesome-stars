@@ -120,7 +120,7 @@
 - [gegeyang0124/react-native-lib-cus-com](https://github.com/gegeyang0124/react-native-lib-cus-com) - react-native 自定义辅助组件库，完美适配各种机型和屏幕大小； 完美的网路请求，带加载条，可上传、下载文件,支持视频播放，二维码条形码扫描， 图片选择、剪辑、查看大图，本地存储，数据库操作，页面导航，截屏和截UI图， 水印图片，打开office类文件;等等多种ui,可自定义删除;可节省应用级软件的开发时间
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
-- [TaleLin/lin-cms-koa](https://github.com/TaleLin/lin-cms-koa) - 🌀使用Node.JS KOA构建的CMS开发框架
+- [logamee/lin-cms-koa](https://github.com/logamee/lin-cms-koa) - 🌀使用Node.JS KOA构建的CMS开发框架
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [NervJS/nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
 - [Tencent/wepy](https://github.com/Tencent/wepy) - 小程序组件化开发框架 - 已归档
@@ -178,7 +178,7 @@
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [open-android/Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [langgptai/wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
