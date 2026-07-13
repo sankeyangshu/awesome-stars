@@ -76,6 +76,7 @@
 
 ## JavaScript 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker) - 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [xlian-fe/i18n-auto-extractor](https://github.com/xlian-fe/i18n-auto-extractor) - i18n-auto-extractor 是一个自动化国际化（i18n）工具，能够智能提取项目中的中文文本，并自动生成多种语言文件。支持与主流前端框架（Vue/React）集成，显著提升多语言开发效率。
@@ -261,7 +262,6 @@
 ## Shell 
 
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 
 ## Svelte 
@@ -415,7 +415,7 @@
 - [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 - [WangFan-io/SnowAdmin](https://github.com/WangFan-io/SnowAdmin) - SnowAdmin 一款基于 Vue3、TypeScript、Vite7、Pinia、Arco.Design 开源的后台管理框架，符合直觉的使用模式，使用目前最新技术栈开发。
 - [chansee97/nova-admin](https://github.com/chansee97/nova-admin) - A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI
-- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ A crafted Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
+- [un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite) - ☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板
 - [auto-i18n/auto-i18n-translation-plugins](https://github.com/auto-i18n/auto-i18n-translation-plugins) - 前端自动翻译。支持有道/谷歌/百度/自定义翻译器。兼容 webpack/vite/rollup/rsbuild，适配所有编译成JS的框架，支持插值，命名空间等，帮助你一键翻译项目。
 - [Carole007/carole-admin](https://github.com/Carole007/carole-admin) - nest全栈快速开发平台
 - [Whbbit1999/shadcn-vue-admin](https://github.com/Whbbit1999/shadcn-vue-admin) - Admin Dashboard UI crafted with Shadcn-vue, Vue3 and Vite. Built with responsiveness and accessibility in mind.管理面板 UI 采用 Shadcn-vue、Vue3 和 Vite 精心打造。构建时充分考虑了响应能力和可访问性。
