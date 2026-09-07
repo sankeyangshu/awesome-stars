@@ -99,7 +99,7 @@
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [befinal/node-tenpay](https://github.com/befinal/node-tenpay) - 微信支付 for nodejs
@@ -251,7 +251,7 @@
 
 ## Rust 
 
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
+- [Hmbown/Codewhale](https://github.com/Hmbown/Codewhale) - Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -273,14 +273,14 @@
 
 ## Swift 
 
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 
 ## TypeScript 
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [sep2/vite-plugin-taro](https://github.com/sep2/vite-plugin-taro) - Build WeChat Mini Apps with the latest standard frontend stack: Vite 8, React 19, and Tailwind CSS v4.
+- [sep2/vite-plugin-taro](https://github.com/sep2/vite-plugin-taro) - Build WeChat/Alipay Mini Apps with the latest standard frontend stack: Vite 8, React 19, and Tailwind CSS v4.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [oyjt/uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template) - 使用uniapp+vite+vue3+typescript+uview-plus+unocss 搭建的适合团队协作的快速开发模版
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -342,7 +342,7 @@
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [dingyi214/slash-admin](https://github.com/dingyi214/slash-admin) - A Modern React Admin Template. It is based on React 19, Vite and TypeScript. It's fast !
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
 - [sankeyangshu/lemon-mobile-vue](https://github.com/sankeyangshu/lemon-mobile-vue) - A mobile web apps template based on the Vue 3 ecosystem. 🎉 一个基于 Vue 3 生态系统的移动 web 应用模板。
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
