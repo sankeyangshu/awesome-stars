@@ -281,9 +281,10 @@
 
 ## TypeScript 
 
+- [louisyoungx/taro-shadcn](https://github.com/louisyoungx/taro-shadcn) - shadcn/ui for Taro 4. Mini-program UI components built with React & Tailwind CSS 4.
 - [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
-- [sep2/vite-plugin-taro](https://github.com/sep2/vite-plugin-taro) - Build WeChat/Alipay Mini Apps with the latest standard frontend stack: Vite 8, React 19, and Tailwind CSS v4.
+- [sep2/vite-plugin-taro](https://github.com/sep2/vite-plugin-taro) - Build WeChat/Alipay/TikTok Mini Apps with the latest standard frontend stack: Vite 8, React 19, and Tailwind CSS v4.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [oyjt/uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template) - 使用uniapp+vite+vue3+typescript+uview-plus+unocss 搭建的适合团队协作的快速开发模版
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -386,7 +387,7 @@
 - [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 - [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 - [sankeyangshu/lemon-admin](https://github.com/sankeyangshu/lemon-admin) - A full-stack monorepo project built with NestJS (backend) and React (admin dashboard) 🚀 一个基于 NestJS 后端与 React 后台管理系统的全栈 Monorepo 项目
-- [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
+- [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - A self-hosted blogging system with Markdown editing, a full admin dashboard, analytics, image hosting, comments, and automatic HTTPS.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
@@ -402,7 +403,7 @@
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
-- [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode
+- [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://codewiki.google/github.com/eggjs/egg
 - [kkxiaojun/koa-node-admin](https://github.com/kkxiaojun/koa-node-admin) - koa2+TypeScript+Sequelize构建的后台模板
 - [liyupi/yuindex](https://github.com/liyupi/yuindex) - ✨ 鱼皮的新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统，很适合想进阶前端的朋友学习
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
